@@ -14,7 +14,7 @@ The Quiz-Game is an interactive multiple-choice question quiz application built 
 
 1. Clone the repository or download the source code as a zip file.
 
-       git clone https://github.com/Siddharth-2382/CODSOFT.git
+       git clone https://github.com/Ashwani2529/CODSOFT.git
        cd CODSOFT 
        cd Quiz-Game
 

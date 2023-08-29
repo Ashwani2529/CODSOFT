@@ -13,7 +13,7 @@ This is a simple calculator application built using Tkinter, a popular Python GU
 
 1. Clone the repository or download the source code as a zip file.
 
-       git clone https://github.com/Siddharth-2382/CODSOFT.git
+       git clone https://github.com/Ashwani2529/CODSOFT.git
        cd CODSOFT
        cd Calculator-App
 2. Ensure you have Python 3.x installed on your system.
